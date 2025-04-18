@@ -91,8 +91,6 @@ This project offers a scalable and flexible analytical base for:
 
 ---
 
----
-
 ## 🔗 References
 - [CoinGecko API Docs](https://www.coingecko.com/en/api/documentation)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
